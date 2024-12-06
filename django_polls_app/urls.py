@@ -1,5 +1,5 @@
 """
-URL configuration for weather_etl_project project.
+URL configuration for django_polls_app project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.1/topics/http/urls/
