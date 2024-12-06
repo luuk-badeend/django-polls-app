@@ -1,4 +1,6 @@
-1. to create venv
-    - ```python3 -m venv folder-name``` 
-2. to activate venv
-    - ```source folder-name/bin/activate```
+- all commands 
+1. `python3 -m venv venv_name`
+1. `source venv_name/bin/activate`
+1. `pip install django`
+1. `django-admin startproject project_name .`
+1. `python3 manage.py runserver`
